@@ -5,7 +5,8 @@
 Hello there, **Bold** 
 
 'tis I, *Italic*
-***
+
+---
 > [:D](https://davidmyoungg.github.io/cse15l-lab-report/)
 > > ![D:](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_Homepage.svg/640px-Google_Homepage.svg.png)
 ***
@@ -34,3 +35,6 @@ for(int i = 0; i < 2; i++) {
     }
 }
 ```
+
+---
+[Lab Report 1](lab-report-1-week-2.html)
