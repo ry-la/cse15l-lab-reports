@@ -1,7 +1,35 @@
-# CSE15L-Lab-Reports
+# # Heading 1
 
-Hello there, **CSE 15L** 
+## ## Heading 2
+ 
+Hello there, **Bold** 
 
-'tis I
+'tis I, *Italic*
+***
+> [:D](https://davidmyoungg.github.io/cse15l-lab-report/)
+> > ![D:](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_Homepage.svg/640px-Google_Homepage.svg.png)
+***
+* Flying
+* Squirrels
+* 1
 
-> [:D](https://ry-la.github.io/cse15l-lab-reports/)
+1. yāt
+2. yih
+3. sàam
+---
+`Inline Code` with backticks
+```
+for(int i = 0; i < 2; i++) {
+    switch(i) {
+        case 0:
+        if(i == 0) {
+            while(i == 0) {
+                System.out.println("Hello World!");
+                i++;
+            }
+        }
+        exit;
+        default:
+        exit;
+    }
+}
