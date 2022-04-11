@@ -2,7 +2,7 @@
 
 Hey there, CSE 15L Student
 
-So you want to learn how to log in to your course-specific account on the UCSD CSE server on ieng6...  
+So you want to learn how to log in to your course-specific account on ieng6 on the UCSD CSE server...  
 Well then, I'm here to tell you that it'll be an arduous endeavor, a Herculean task, Odysseus' Iliad.  
 However, if you still want to proceed... then go ahead and learn to your heart's content. It comes with many perils. **But**, learning this skill will prove to be beneficial in the coming future of your career.
 
