@@ -1,3 +1,10 @@
+This lab report shows the results of running different versions of MarkdownParse on three different snippets.
+
+The first MarkdownParse code was written by me, accessed [here](https://github.com/ry-la/markdown-parser)
+
+The next MarkdownParse code was written by Hiro, whose code we reviewed in week 7, accessed [here](https://github.com/Hiro-229/markdown-parser).
+More specifically, the code we reviewed in week 7 is [this specific commit](https://github.com/Hiro-229/markdown-parser/commit/f1ee54801dffa5878867917e0b438cbf5b07f287)
+
 Through the use of the CommonMark demo site, which lets us see previews of markdown files, we know which lines count as valid links for us to read and add to the arraylist of links.
 
 ## Snippet 1
