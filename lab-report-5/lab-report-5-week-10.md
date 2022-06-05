@@ -1,3 +1,5 @@
+# Lab Report 5
+
 MarkdownParser is a program that we have coded in order to get all the links from a markdown file and output them into one arraylist. During Lab 9, we compared two the results of many tests between two different markdown parsers by outputting the run onto a results text file and comparing the two using `vimdiff`. We then scrolled through it and documented any differences that were highlighted.
 
 Two of the tests that were different when reviewing vimdiff results were [Test-File 22](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/22.md) and [Test-File 194](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md).
