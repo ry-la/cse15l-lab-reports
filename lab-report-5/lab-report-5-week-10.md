@@ -6,7 +6,7 @@ Two of the tests that were different when reviewing vimdiff results were [Test-F
 
 ## Test 22
 
-For test 22, our markdown parser noted a link, which was `/bar\* "ti\*tle"`, while the given markdown parser found no links at all as shown in the image below. The results from the markdown parser we wrote is on the left, while the given markdown parser's output is on the right.
+For [Test-File 22](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/22.md), our markdown parser noted a link, which was `/bar\* "ti\*tle"`, while the given markdown parser found no links at all as shown in the image below. The results from the markdown parser we wrote is on the left, while the given markdown parser's output is on the right.
 
 ![Test 22 Actual Results](22-actual.jpg)
 
@@ -26,7 +26,7 @@ The reason for the other markdown parser's error lies in line 75, which checks t
 
 ## Test 194
 
-In test 194, the opposite occurred. This time, our markdown parser found nothing, but the other markdown parser from the given repository found `url`.
+In [Test-File 194](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md), the opposite occurred. This time, our markdown parser found nothing, but the other markdown parser from the given repository found `url`.
 
 ![Test 194 Actual Results](194-actual.jpg)
 
